@@ -1,12 +1,12 @@
 {
-  "version": 2,
+  "version": 3,
   "languages": [
     {
       "code": "uk",
       "name": "Ukrainian",
       "nativeName": "Українська",
       "file": "uk.json",
-      "version": 2
+      "version": 3
     }
   ]
 }
